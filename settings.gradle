@@ -1,0 +1,4 @@
+rootProject.name = 'intellij-maybe-bug-example'
+include 'api-module'
+include 'domain-module'
+

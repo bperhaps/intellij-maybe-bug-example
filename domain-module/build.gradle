@@ -1,0 +1,11 @@
+group = 'com.example'
+version = '0.0.1' // change here
+
+bootJar {
+    enabled false
+}
+
+jar {
+    enabled true
+    archiveClassifier = ''
+}
